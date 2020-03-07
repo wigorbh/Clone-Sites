@@ -1,0 +1,18 @@
+#titulo {
+  color:white;
+  text-align: center;
+}
+.subtitle {
+  color:#bf1f13;
+}
+#cabecalho {
+  background-color: black;
+  padding: 9px;
+}
+#image {
+  float: right;
+}
+.paragrafo {
+  font-size: xx-large;
+  font-family: monospace;
+}
